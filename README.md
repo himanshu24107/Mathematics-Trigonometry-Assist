@@ -6,4 +6,7 @@ https://user-images.githubusercontent.com/39833325/126067048-4871c4bd-379c-4031-
 
 Hosted version: https://conwayjw97.github.io/Trig-Assist/
 
-To run locally, clone and run "yarn start" from the root directory.
+To run locally, 
+clone and 
+run "npm install"
+then, "npm run"
